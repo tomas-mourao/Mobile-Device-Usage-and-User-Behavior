@@ -1,4 +1,4 @@
-# Trabalho-Orange
+# Mobile Device Usage and User Behavior
 
 Projeto de grupo da unidade curricular **Dados na Ciência, Gestão e Sociedade**, sobre o dataset *Mobile Device Usage and User Behavior*. Segue a metodologia CRISP-DM (Business Understanding, Data Understanding, Data Preparation, Data Analysis, Modeling e Evaluation).
 
